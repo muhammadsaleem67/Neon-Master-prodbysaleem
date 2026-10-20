@@ -1,0 +1,8 @@
+{
+  "name": "Neon Master",
+  "description": "Survive endless waves of neon enemies in an intense synthwave arena with glowing visuals, power-ups, upgrades, and boss battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
